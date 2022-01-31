@@ -15,7 +15,7 @@ classes: wide
 
 # About Me
 
-<img src="{{ "/assets/images/presentation.jpeg" | absolute_url }}"
+<img src="/assets/images/presentation.jpeg"
 width="50%" hspace="20" align="right">
 
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering in University of Houston. I am supervised by [Dr. Hien Van Nguyen][1] in [HULA Lab][8] and co-advised by [Dr. Jiefu Chen][2] in [MODEL Lab][9]. My research interests are in Machine Learning, Deep Learning, Meta-Learning, and their applications in Computer Vision and Image Analysis. 
