@@ -1,0 +1,8 @@
+@inproceedings{yuan2020few,
+  title={Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification},
+  author={Yuan, Pengyu and Mobiny, Aryan and Jahanipour, Jahandar and Li, Xiaoyang and Cicalese, Pietro Antonio and Roysam, Badrinath and Patel, Vishal M and Dragan, Maric and Van Nguyen, Hien},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={367--377},
+  year={2020},
+  organization={Springer}
+}

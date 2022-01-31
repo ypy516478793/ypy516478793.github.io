@@ -1,0 +1,8 @@
+@incollection{yuan2019first,
+  title={First arrival picking using U-net with Lovasz loss and nearest point picking method},
+  author={Yuan, Pengyu and Hu, Wenyi and Wu, Xuqing and Chen, Jiefu and Van Nguyen, Hien},
+  booktitle={SEG Technical Program Expanded Abstracts 2019},
+  pages={2624--2628},
+  year={2019},
+  publisher={Society of Exploration Geophysicists}
+}

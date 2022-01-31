@@ -1,0 +1,10 @@
+@article{yuan2019phasetime,
+  title={Phasetime: Deep learning approach to detect nuclei in time lapse phase images},
+  author={Yuan, Pengyu and Rezvan, Ali and Li, Xiaoyang and Varadarajan, Navin and Van Nguyen, Hien},
+  journal={Journal of clinical medicine},
+  volume={8},
+  number={8},
+  pages={1159},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}

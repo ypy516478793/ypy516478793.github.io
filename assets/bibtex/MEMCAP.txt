@@ -1,0 +1,7 @@
+@article{mobiny2021memory,
+  title={Memory-augmented capsule network for adaptable lung nodule classification},
+  author={Mobiny, Aryan and Yuan, Pengyu and Cicalese, Pietro A and Moulik, Supratik K and Garg, Naveen and Wu, Carol C and Wong, Kelvin and Wong, Stephen T and He, Tian Cheng and Nguyen, Hien V},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2021},
+  publisher={IEEE}
+}

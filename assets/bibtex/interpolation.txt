@@ -1,0 +1,8 @@
+@inproceedings{yuan2021self,
+  title={Self-supervised learning for anti-aliasing seismic data interpolation},
+  author={Yuan, Pengyu and Wang, Shirui and Hu, Wenyi and Nadukandi, Prashanth and Ocampo Botero, German and Wu, Xuqing and Chen, Jiefu and Van Nguyen, Hien},
+  booktitle={First International Meeting for Applied Geoscience \& Energy},
+  pages={1500--1504},
+  year={2021},
+  organization={Society of Exploration Geophysicists}
+}

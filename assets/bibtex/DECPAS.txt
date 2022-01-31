@@ -1,0 +1,8 @@
+@inproceedings{mobiny2020decaps,
+  title={DECAPS: Detail-Oriented Capsule Networks},
+  author={Mobiny, Aryan and Yuan, Pengyu and Cicalese, Pietro Antonio and Van Nguyen, Hien},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={148--158},
+  year={2020},
+  organization={Springer}
+}

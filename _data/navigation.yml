@@ -1,0 +1,42 @@
+# the masthead
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /assets/docs/resume.pdf
+
+# sidebar for portfolio
+portfolio:
+  - title: "Medical research"
+    children:
+      - title: "Adaptable Lung Nodule Classification"
+        url: /portfolio/MAMCAP/
+      - title: "AGILE: Few Shot Brain Cell Classification"
+        url: /portfolio/AGILE/
+      - title: "DECAPS: Detail-Oriented Capsule Networks"
+        url: /portfolio/DECAPS/
+      - title: "Multimodal Breast Lesion Classification"
+        url: /portfolio/breast/
+      - title: "Phasetime: Nuclei Detection"
+        url: /portfolio/phasetime/
+
+  - title: "Geophysical research"
+    children:
+      - title: "Self-supervised Seismic Interpolation"
+        url: /portfolio/interpolation
+      - title: "First Arrival Picking"
+        url: /portfolio/fap
+      - title: "Unsupervised Seismic Deblending"
+        url: /portfolio/deblend
+
+  - title: "Tutorial"
+    children:
+      - title: "Bayesian meta-learning"
+        url: /portfolio/BayeML/
+      - title: "Bayesian deep learning"
+        url: /portfolio/BayeDL/
+

@@ -1,0 +1,7 @@
+@inproceedings{wang2021seismic,
+  title={Seismic deblending by self-supervised deep learning with a blind-trace network},
+  author={Wang, Shirui and Hu, Wenyi and Yuan, Pengyu and Wu, Xuqing and Zhang, Qunshan and Nadukandi, Prashanth and Ocampo Botero, German and Chen, Jiefu},
+  booktitle={SEG/AAPG/SEPM First International Meeting for Applied Geoscience \& Energy},
+  year={2021},
+  organization={OnePetro}
+}

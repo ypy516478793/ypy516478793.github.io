@@ -1,0 +1,8 @@
+@inproceedings{vo2021multimodal,
+  title={Multimodal Breast Lesion Classification Using Cross-Attention Deep Networks},
+  author={Vo, Hung Q and Yuan, Pengyu and He, Tiancheng and Wong, Stephen TC and Nguyen, Hien V},
+  booktitle={2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)},
+  pages={1--4},
+  year={2021},
+  organization={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{yuan2020robust,
+  title={A robust first-arrival picking workflow using convolutional and recurrent neural networks},
+  author={Yuan, Pengyu and Wang, Shirui and Hu, Wenyi and Wu, Xuqing and Chen, Jiefu and Van Nguyen, Hien},
+  journal={Geophysics},
+  volume={85},
+  number={5},
+  pages={U109--U119},
+  year={2020},
+  publisher={Society of Exploration Geophysicists and American Association of Petroleum~…}
+}

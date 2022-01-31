@@ -1,0 +1,91 @@
+# Configs for pyuan.com
+
+title: "Pengyu Yuan (University of Houston)"
+name: "Pengyu Yuan (University of Houston)"
+email: ypy516478793@gmail.com
+url: "http://www.pyuan.com"
+repository: "ypy516478793/ypy516478793.github.io"
+port: 4001
+
+include:
+  - _pages
+  - assets
+  - index.html
+exclude:
+  - TODO.md
+  - README.md
+  - "*.org"
+  - "*ltximg*"
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+  
+# settings for author profile
+author:
+  name   : "Pengyu(Ben) Yuan"
+  avatar : "/assets/images/head.jpg"
+  bio    : "Ph.D. candidate skilled in Machine Learning and Deep Learning with applications in Medical and Seismic Image Analysis."
+  location: "Houston, TX"
+  github : ypy516478793
+  linkedin: pengyu-yuan-35ba91219
+  email  : ypy516478793@gmail.com
+
+
+# # comments by disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "pyuan-com"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-116208936-1"
+
+
+# pagination for blog page
+paginate: 10 # number of posts to show
+paginate_path: /page:num/
+
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: false
+      comments: true
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
+
+# collections
+collections:
+  portfolio:
+    output: true
